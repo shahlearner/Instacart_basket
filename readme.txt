@@ -11,7 +11,7 @@ Instacart, a grocery ordering and delivery app, aims to make it easy to fill ref
 ############################# Instructions to run the code #################
 
 1. Place all the files in this repository in your current working directory
-2. aisles.csv, departments.csv, order_products_prior.csv, order_products_train.csv, orders.csv, products.csv are data files.
+2. Data can be downloaded from https://www.kaggle.com/c/instacart-market-basket-analysis/data
 3. Run exploratory_part.R for data visualisation and insights.
 4. The report file final_report.docx contains the analysis done during the course of project.
 5. Run insta_code_check_working.R for data preparation and model building. The output accuracy is reported in final_report.docx
